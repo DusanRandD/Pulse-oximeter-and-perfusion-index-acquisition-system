@@ -15,4 +15,4 @@ This Firmware is develop using two libraries: “Virtual COM Port Demo” and �
 
 Duration of measurement can be set in script in part 2. Appropriate connection of Hardware with PC must be done before starting script part 3. Before part 4 finger of observed person should be on sensor like in picture. Wait from starting, for time duration that is define in part 2, and remove finger on the end of part 4. Execute all parts of scripts to the end.
 ## Attention
-This instrumentation is not professional instrumentation and it is not calibrated. It could be used for development starting point. 
+This instrumentation is not calibrated. It could be used for development starting point. 
