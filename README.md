@@ -1,5 +1,5 @@
 # Pulse oximeter and perfusion index acquisition system
-Pulse oximeter and perfusion index acquisition system is a measurement system that provide Hart Rate HR, level of oxygen saturation SPO2, and Perfusion Index PI of observed person in real time. This system is based on embedded hardware device for sensing and Python source code for data processing. It is non invasive light reflective method with two wavelengths.
+Pulse oximeter and perfusion index acquisition system is a measurement system that provide Hart Rate HR, level of oxygen saturation SPO2, and Perfusion Index PI of observed person in real time. This system is based on embedded hardware device for sensing and Python source code for data processing. It is non invasive light reflective method with two wavelengths and could be used for development starting point.
 ## Hardware
 ![Hardware](/Pictures/Hardware.jpg)
 
@@ -15,4 +15,4 @@ This Firmware is develop using two libraries: “Virtual COM Port Demo” and �
 
 Duration of measurement can be set in script in part 2. Appropriate connection of Hardware with PC must be done before starting script part 3. Before part 4 finger of observed person should be on sensor like in picture. Wait from starting, for time duration that is define in part 2, and remove finger on the end of part 4. Execute all parts of scripts to the end.
 ## Attention
-This instrumentation is not calibrated. It could be used for development starting point. 
+This instrumentation is not calibrated.
